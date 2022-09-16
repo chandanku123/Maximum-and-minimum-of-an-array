@@ -1,0 +1,15 @@
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/bin/Debug/net6.0/MaxMinNumber
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/bin/Debug/net6.0/MaxMinNumber.deps.json
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/bin/Debug/net6.0/MaxMinNumber.runtimeconfig.json
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/bin/Debug/net6.0/MaxMinNumber.dll
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/bin/Debug/net6.0/MaxMinNumber.pdb
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.csproj.AssemblyReference.cache
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.AssemblyInfoInputs.cache
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.AssemblyInfo.cs
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.csproj.CoreCompileInputs.cache
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.dll
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/refint/MaxMinNumber.dll
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.pdb
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/MaxMinNumber.genruntimeconfig.cache
+/Users/chandankumarpandey/Desktop/Development/MaxMinNumber/obj/Debug/net6.0/ref/MaxMinNumber.dll
